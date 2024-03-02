@@ -1,60 +1,45 @@
-## Hi, I'm [Kislay](https://kislay.vercel.app). Welcome to my GitHub Profile!
+<h1 align="center">Hi 👋, I'm Kislay</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-[![Profile views](https://komarev.com/ghpvc/?username=crevils&label=Profile%20views&style=for-the-badge)](https://github.com/crevils)
-- 📫 [Connect with me](#-connect-with-me).
-- ⚡ Always ready to help!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crevils&label=Profile%20views&color=0e75b6&style=flat" alt="crevils" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crevils" alt="crevils" /></a> </p>
 
-## 🛠️ Languages and tools
-</br>
+<p align="left"> <a href="https://twitter.com/itskislay" target="blank"><img src="https://img.shields.io/twitter/follow/itskislay?logo=twitter&style=for-the-badge" alt="itskislay" /></a> </p>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://kislay.vercel.app)
+- 🔭 I’m currently working on **telegram bots**
 
----
+- 🌱 I’m currently learning **Blockchain**
 
-## 🔗 Connect with me
+- 🤝 I’m looking for help with **MERN Stack**
 
-<!-- png icons from https://iconscout.com/ -->
-<a href="https://kislay.vercel.app" class="padded"><img align="left" alt="https://kislay.vercel.app" width="28px" src="./res/website.png" /></a> 
-<a href="https://youtube.com/crevils" class="padded"><img align="left" alt="Kislay" width="28px" src="./res/youtube.png" /></a> 
-<a href="https://telegram.dog/crevils" class="padded"><img align="left" alt="Kislay" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://twitter.com/itskislay" class="padded"><img align="left" alt="Kislay" width="28px" src="./res/twitter.png" /></a> 
-<a href="https://linkedin.com/in/imkislay" class="padded"><img align="left" alt="Kislay" width="28px" src="./res/linkedin.png" /></a> 
-</br>
+- 👨‍💻 All of my projects are available at [https://kislay.vercel.app](https://kislay.vercel.app)
 
-## 📊 Stats
+- 📝 I regularly write articles on [https://kislay.vercel.app](https://kislay.vercel.app)
 
-![Metrics](https://metrics.lecoq.io/crevils?template=classic&isocalendar=1&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FCalcutta)
+- 💬 Ask me about **MERN stack, bot programming in social medias like telegram and discord**
 
+- 📫 How to reach me **https://kislay.vercel.app**
 
----
+- 📄 Know about my experiences [https://kislay.vercel.app](https://kislay.vercel.app)
 
-## 👨🏻‍💻 WakaTime Stats
+- ⚡ Fun fact **I commit code like a boss: with 99 bugs in the code, take one down, patch it around, 127 bugs in the code.**
 
-<!--START_SECTION:waka-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itskislay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskislay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imkislay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkislay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/crevils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crevils" height="30" width="40" /></a>
+</p>
 
-<figure><embed src="https://wakatime.com/share/@018dfe34-dab8-4740-aaa0-09363092f041/4ec0ba94-63b6-4c05-bc5a-5f6ae4cad06c.svg"></embed></figure>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!--END_SECTION:waka-->
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kislay"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kislay" /></a></p><br><br>
 
-## 👨‍💻 LOC
-[![Lines of Code](https://api.githubtrends.io/user/svg/crevils/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://kislay.vercel.app)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crevils&show_icons=true&locale=en&layout=compact" alt="crevils" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crevils&show_icons=true&locale=en" alt="crevils" /></p>
 
-## 🎵 Now playing
-
-![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)
-
----
-
-## 📋 Badges
-[![An image of @Crevils's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crevils)](https://holopin.io/@crevils)
-
----
-
-## 💰 Support Me
-
-<a href="https://ko-fi.com/kislay" class="padded"><img height="35" style="border:0px;height:35px;" alt="Kislay" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crevils&" alt="crevils" /></p>
