@@ -1,7 +1,6 @@
 ## Hi, I'm [Kislay](https://kislay.vercel.app). Welcome to my GitHub Profile!
 
 [![Profile views](https://komarev.com/ghpvc/?username=crevils&label=Profile%20views&style=for-the-badge)](https://github.com/crevils)
-- 💫 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
 
