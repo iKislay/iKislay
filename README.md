@@ -109,7 +109,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
 <!--START_SECTION:waka-->
+```txt
+
+```
 <!--END_SECTION:waka-->
 
 ###
