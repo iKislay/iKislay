@@ -109,10 +109,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<figure><embed src="https://wakatime.com/share/@kislay/cb669d6c-2672-42ab-8574-91f2296a2971.svg"></embed></figure>
 ###
 
-<img src="https://raw.githubusercontent.com/crevils/crevils/output/snake.svg" alt="Snake animation" />
+
+<figure><embed src="https://wakatime.com/share/@kislay/cb669d6c-2672-42ab-8574-91f2296a2971.svg"></embed></figure>
+
 
 ###
 
