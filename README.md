@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd5dDRuYnM3MTNlMTh0a3pneWZ1YmVzYWw0NTNxa3Vqc3ZhMWh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9idXl3bHZwNms3ZjE3YTFpeGx6eGVjcDI4Y2tjczh6NTlweGc4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hello 👋, I'm Kislay</h1>
+<h1 align="center">Hey 👋, I'm <a href="https://kislay.is-a.dev" target="_blank">Kislay</a></h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working on telegram bot projects<br>- 📚 I'm currently learning blockchain technology<br>- ⚡ In my free time I watch podcast or listen music</h4>
+<h4 align="left">- 🔭 🔭 I’m currently working on a B2B SAAS <br>- 🌱 I’m currently learning AI/ML, DSA<br>- ⚡ In my free time I watch podcast or listen music</h4>
 
 ###
 
@@ -77,35 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<h3 align="left">💰 Donation:</h3>
-
-###
-
-<div align="left">
-  <a href="https://ko-fi.com/kislay" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=flat" height="50" alt="ko-fi logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 348 hrs 19 mins
-
-JavaScript        170 hrs 35 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.98 %
-TypeScript        119 hrs 38 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.35 %
-JSON              16 hrs 31 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.74 %
-Bash              9 hrs 45 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.80 %
-CSS               7 hrs 50 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.25 %
-```
-
-<!--END_SECTION:waka-->
 
 ###
 
@@ -113,18 +84,15 @@ CSS               7 hrs 50 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ###
 
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crevils&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crevils&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iKislay&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iKislay&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=crevils&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="htthttps://github-readme-stats.vercel.app/api/top-langs/?username=iKislay&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="220" alt="streak graph"  />
 </div>
 
 ###
